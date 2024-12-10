@@ -28,7 +28,7 @@ I thrive on solving challenges, learning new technologies, and pushing the bound
 ## 🌟 Projects  
 
 ### 1. **🧠 Brainf-ck Interpreter**
-An efficient interpreter for the Brainf**k programming language.  
+A simple and efficient interpreter for the Brainf**k programming language.  
 - **✨ Features:** Handles parsing and execution of Brainf**k code with memory optimization.  
 - **🛠 Tech Stack:** Python  
 - **🎨 Purpose:** A fun exploration into the workings of esoteric programming languages.  
