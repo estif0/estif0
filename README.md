@@ -1,4 +1,3 @@
-
 Hello! I'm **Estifanose Sahilu**, a passionate developer with a love for creative problem-solving, building impactful projects, and diving deep into the world of competitive programming. Whether it’s designing intuitive front-end interfaces, crafting efficient algorithms, or exploring unconventional programming paradigms, I enjoy creating solutions that make a difference.
 
 ---
