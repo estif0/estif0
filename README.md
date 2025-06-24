@@ -2,9 +2,7 @@
 
 I'm a **Software Developer** with a passion for solving complex problems, building scalable applications, and contributing to impactful projects. My experience spans **full-stack web development, competitive programming, and algorithm design**, and I thrive on continuous learning and collaboration.
 
-🔹 **Currently:** Learning to advance my skills in **React**, **TypeScript**, **Next.js**, and **Node.js**.
-
-🔹 **Focus Areas:** Front end development with Backend implementation using Next.js
+🔹 **Currently:** Learning to advance my skills in **Backend Development**.
 
 ---
 
