@@ -24,40 +24,6 @@ I'm a **Software Developer** with a passion for solving complex problems, buildi
 
 ---
 
-## 💡 Featured Projects
-
-### 🌟 **CSEC-ASTU**
-
--   **Description:** A landing site for our Computer Science and Engineering Club at Adama Science and Technology University
--   **Tech Stack:** React, Tailwind CSS, Framer Motion, Lucide React, TypeAnimation
--   **Impact:** Fosters a tech-savvy community through divisions like Competitive Programming, Development, Data Science, Cybersecurity, and others.  
-    🔗 [View Repository](https://github.com/estif0/CSEC-ASTU-landing-page)
-
-### 🧩 **BF-Playground**
-
--   **Description:** An online web platform for writing and executing Brainfuck (BF) programs in your browser. Brainfuck is a minimalistic esoteric programming language known for its Turing completeness.
--   **Tech Stack:** JavaScript, HTML, CSS
--   **Impact:** Provides an accessible platform for learning and experimenting with Brainfuck programming.  
-    🔗 [View Repository](https://github.com/estif0/bF-playground)
-
-> **Note:** There are CLI alternatives to this project in my repos
-
-### 🎨 **Computer Graphics Paint Project**
-
--   **Description:** An accessible and intuitive platform for users to create and manipulate digital drawings using core graphics concepts and algorithms.
--   **Tech Stack:** React, Tailwind CSS
--   **Impact:** Demonstrates the implementation of fundamental graphics algorithms and provides tools for digital drawing.  
-    🔗 [View Repository](https://github.com/estif0/computer-graphics-paint-project)
-
-### 🏆 **Competitive Programming Solutions**
-
--   **Description:** A collection of optimized solutions with good documentation for competitive programming problems.
--   **Tech Stack:** Python, C++
--   **Impact:** Developed and refined problem-solving strategies used in contests like Codeforces, LeetCode.  
-    🔗 [View Repository](https://github.com/estif0/Competitive-Programming-Solutions)
-
----
-
 ## 🎯 Why Hire Me?
 
 ✔ **Problem-Solver:** Strong background in **data structures, algorithms, and competitive programming**.  
